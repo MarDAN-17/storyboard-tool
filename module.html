@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title id="page-title">Storyboard</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <div class="app-header__brand">
+      <span class="app-header__mark" aria-hidden="true"></span>
+      <span class="app-header__title">Storyboards</span>
+    </div>
+    <nav class="app-header__breadcrumb">
+      <a href="index.html">Tableau de bord</a> / <span id="breadcrumb-module">…</span>
+    </nav>
+  </header>
+
+  <main class="view">
+    <div class="view-intro">
+      <div>
+        <h1 id="module-title">Chargement…</h1>
+        <p id="module-sequence"></p>
+      </div>
+    </div>
+
+    <div class="toolbar">
+      <label class="toolbar__search">
+        <span>Rechercher</span>
+        <input type="search" id="search-input" placeholder="Texte, note, interaction…">
+      </label>
+      <div class="chip-group" id="statut-chips">
+        <button class="chip" data-tone="all" data-statut="all" data-active="true">Tous</button>
+        <button class="chip" data-tone="valide" data-statut="valide">Validé</button>
+        <button class="chip" data-tone="a_relire" data-statut="a_relire">À relire</button>
+        <button class="chip" data-tone="brouillon" data-statut="brouillon">Brouillon</button>
+      </div>
+    </div>
+
+    <div class="module-layout">
+      <nav class="chapter-rail" id="chapter-rail" aria-label="Chapitres"></nav>
+      <div id="slides-root">
+        <div class="empty-state">Chargement du storyboard…</div>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/storyboard-model.js"></script>
+  <script src="js/ui-viewer.js"></script>
+  <script src="js/app-module.js"></script>
+</body>
+</html>

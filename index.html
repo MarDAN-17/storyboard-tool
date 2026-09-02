@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Storyboards — Tableau de bord</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <div class="app-header__brand">
+      <span class="app-header__mark" aria-hidden="true"></span>
+      <span class="app-header__title">Storyboards</span>
+    </div>
+    <nav class="app-header__breadcrumb">Tableau de bord</nav>
+  </header>
+
+  <main class="view">
+    <div class="view-intro">
+      <div>
+        <h1>Vos modules</h1>
+        <p>Tous les storyboards de formation de l'équipe, avec leur avancement de relecture.</p>
+      </div>
+    </div>
+
+    <div id="dashboard-root">
+      <div class="empty-state">Chargement des modules…</div>
+    </div>
+  </main>
+
+  <script src="js/storyboard-model.js"></script>
+  <script src="js/ui-dashboard.js"></script>
+  <script src="js/app-dashboard.js"></script>
+</body>
+</html>
