@@ -1,0 +1,111 @@
+{
+  "id": "sensibilisation-cybersecurite",
+  "titre": "Sensibilisation à la cybersécurité",
+  "sequence": "Module 2 — Sécurité de l'information",
+  "savoirs": "SEC-PHI-SEC-VIG",
+  "derniereModification": "2026-08-30",
+  "chapitres": [
+    {
+      "id": "chap-1",
+      "numero": "1",
+      "titre": "Reconnaître le phishing",
+      "diapos": [
+        {
+          "id": "cyber-001",
+          "numeroTitre": "1- Introduction",
+          "referenceMasque": "Sécurité 1",
+          "texteEcran": "Reconnaître le phishing",
+          "interactions": "Sans objet",
+          "elementsVisuels": "Sans objet",
+          "notesProduction": "",
+          "navigation": "Bouton précédent et Suivant du lecteur\nNavigation linéaire",
+          "statut": "valide"
+        },
+        {
+          "id": "cyber-002",
+          "numeroTitre": "2- Qu'est-ce que le phishing ?",
+          "referenceMasque": "Sécurité 4",
+          "texteEcran": "Le phishing est une tentative de fraude visant à obtenir des informations confidentielles en se faisant passer pour un tiers de confiance (banque, collègue, fournisseur).",
+          "interactions": "Sans objet",
+          "elementsVisuels": "Illustration d'un e-mail suspect avec zones surlignées",
+          "notesProduction": "Flouter tout logo de marque réelle utilisé en exemple",
+          "navigation": "Bouton précédent et Suivant du lecteur\nNavigation linéaire",
+          "statut": "valide"
+        },
+        {
+          "id": "cyber-003",
+          "numeroTitre": "3- Les signaux d'alerte",
+          "referenceMasque": "Sécurité 7",
+          "texteEcran": "Repérez les signaux :\n• Expéditeur inhabituel ou légèrement modifié\n• Sentiment d'urgence ou menace\n• Lien ou pièce jointe inattendue\n• Fautes d'orthographe suspectes",
+          "interactions": "Clic sur chaque signal pour afficher un exemple",
+          "elementsVisuels": "4 icônes cliquables avec légendes",
+          "notesProduction": "Prévoir une variante mobile empilée verticalement",
+          "navigation": "Bouton précédent et Suivant du lecteur\nNavigation linéaire",
+          "statut": "a_relire"
+        },
+        {
+          "id": "cyber-004",
+          "numeroTitre": "4- Mise en situation",
+          "referenceMasque": "",
+          "texteEcran": "Analysez cet e-mail : est-il légitime ou frauduleux ?",
+          "interactions": "Question à choix unique avec feedback",
+          "elementsVisuels": "Capture d'écran d'un e-mail fictif",
+          "notesProduction": "",
+          "navigation": "Navigation linéaire, retour impossible après validation",
+          "statut": "brouillon"
+        }
+      ]
+    },
+    {
+      "id": "chap-2",
+      "numero": "2",
+      "titre": "Bonnes pratiques au quotidien",
+      "diapos": [
+        {
+          "id": "cyber-005",
+          "numeroTitre": "5- Les bons réflexes",
+          "referenceMasque": "Sécurité titre chapitre",
+          "texteEcran": "2. Bonnes pratiques au quotidien",
+          "interactions": "Sans objet",
+          "elementsVisuels": "Sans objet",
+          "notesProduction": "",
+          "navigation": "Bouton précédent et Suivant du lecteur\nNavigation linéaire",
+          "statut": "valide"
+        },
+        {
+          "id": "cyber-006",
+          "numeroTitre": "6- Mots de passe robustes",
+          "referenceMasque": "",
+          "texteEcran": "Un mot de passe robuste :\n• Fait au moins 12 caractères\n• Mélange majuscules, minuscules, chiffres, symboles\n• Est unique pour chaque service",
+          "interactions": "Sans objet",
+          "elementsVisuels": "Comparatif visuel mot de passe faible / fort",
+          "notesProduction": "Vérifier conformité avec la politique interne avant diffusion",
+          "navigation": "Bouton précédent et Suivant du lecteur\nNavigation linéaire",
+          "statut": "a_relire"
+        },
+        {
+          "id": "cyber-007",
+          "numeroTitre": "7- Que faire en cas de doute ?",
+          "referenceMasque": "",
+          "texteEcran": "En cas de doute sur un e-mail ou un message : ne cliquez pas, ne répondez pas, signalez-le au support informatique.",
+          "interactions": "Sans objet",
+          "elementsVisuels": "Pictogramme alerte + bouton de signalement",
+          "notesProduction": "",
+          "navigation": "Bouton précédent et Suivant du lecteur\nNavigation linéaire",
+          "statut": "brouillon"
+        },
+        {
+          "id": "cyber-008",
+          "numeroTitre": "8- Synthèse",
+          "referenceMasque": "",
+          "texteEcran": "Vigilance + bons réflexes = votre meilleure protection au quotidien.",
+          "interactions": "Sans objet",
+          "elementsVisuels": "Sans objet",
+          "notesProduction": "",
+          "navigation": "Bouton précédent et Suivant du lecteur\nNavigation linéaire",
+          "statut": "valide"
+        }
+      ]
+    }
+  ]
+}
