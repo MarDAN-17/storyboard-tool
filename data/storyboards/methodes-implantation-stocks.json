@@ -1,0 +1,221 @@
+{
+  "id": "methodes-implantation-stocks",
+  "titre": "Méthodes d'implantation des stocks",
+  "sequence": "Séquence 6 — Stockage et gestion des stocks",
+  "savoirs": "SAV-SFT-SFO-SFC",
+  "derniereModification": "2026-08-28",
+  "chapitres": [
+    {
+      "id": "chap-1",
+      "numero": "1",
+      "titre": "Introduction",
+      "diapos": [
+        {
+          "id": "slide-001",
+          "numeroTitre": "4- Introduction",
+          "referenceMasque": "Logistique 3",
+          "texteEcran": "1. Introduction",
+          "interactions": "Sans objet",
+          "elementsVisuels": "Sans objet",
+          "notesProduction": "",
+          "navigation": "• Bouton précédent et Suivant du lecteur\n• Mettre un déclencheur sur le bouton Précédent pour aller à la diapo précédente\n• Navigation linéaire",
+          "statut": "valide"
+        },
+        {
+          "id": "slide-002",
+          "numeroTitre": "5. L'implantation en entrepôt",
+          "referenceMasque": "Logistique 5",
+          "texteEcran": "Organiser les articles pour optimiser leur stockage et leur accès.",
+          "interactions": "Sans objet",
+          "elementsVisuels": "Sans objet",
+          "notesProduction": "",
+          "navigation": "• Bouton précédent et Suivant du lecteur\n• Mettre un déclencheur sur le bouton Précédent pour aller à la diapo précédente\n• Navigation linéaire",
+          "statut": "a_relire"
+        },
+        {
+          "id": "slide-003",
+          "numeroTitre": "6. Qu'est-ce que l'implantation ?",
+          "referenceMasque": "",
+          "texteEcran": "méthode qui permettra de déterminer, pour chaque article à stocker, le meilleur emplacement possible en fonction de critères définis au préalable.",
+          "interactions": "",
+          "elementsVisuels": "Cadre pour la définition\nIcônes pour règles de stockage et fréquence de sortie",
+          "notesProduction": "Supprimer une des trois options",
+          "navigation": "• Bouton précédent et Suivant du lecteur\n• Mettre un déclencheur sur le bouton Précédent pour aller à la diapo précédente\n• Navigation linéaire",
+          "statut": "brouillon"
+        },
+        {
+          "id": "slide-004",
+          "numeroTitre": "7. Pourquoi implanter efficacement ?",
+          "referenceMasque": "Logistique 11",
+          "texteEcran": "Pourquoi implanter efficacement ?\nGagner du temps lors des préparations de commandes\nFaciliter le travail des opérateurs logistiques\nRéduire les risques d'accidents ou de détérioration des produits\nOptimiser l'espace disponible",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "Supprimer une des trois options",
+          "navigation": "• Bouton précédent et Suivant du lecteur\n• Mettre un déclencheur sur le bouton Précédent pour aller à la diapo précédente\n• Navigation linéaire",
+          "statut": "valide"
+        },
+        {
+          "id": "slide-005",
+          "numeroTitre": "8. Exemple concret",
+          "referenceMasque": "",
+          "texteEcran": "Exemples de méthodes d'implantation\n• Méthode ABC\nClasse les produits selon leur valeur ou importance pour prioriser la gestion des stocks.\n• Méthode ABZ\nClasse les produits selon leur variabilité ou régularité de consommation pour organiser les approvisionnements.\n• Analyse double critère\nClasse les produits selon leur variabilité ou régularité de consommation pour organiser les approvisionnements.",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "• Bouton précédent et Suivant du lecteur\n• Mettre un déclencheur sur le bouton Précédent pour aller à la diapo précédente\n• Navigation linéaire",
+          "statut": "valide"
+        },
+        {
+          "id": "slide-006",
+          "numeroTitre": "9. L'implantation en bref",
+          "referenceMasque": "",
+          "texteEcran": "Implantation = efficacité + sécurité + optimisation\nBien implanter, c'est permettre à l'opérateur de travailler rapidement et en toute sécurité tout en utilisant l'espace de façon optimale.",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "• Bouton précédent et Suivant du lecteur\n• Mettre un déclencheur sur le bouton Précédent pour aller à la diapo précédente\n• Navigation linéaire",
+          "statut": "a_relire"
+        }
+      ]
+    },
+    {
+      "id": "chap-2",
+      "numero": "2",
+      "titre": "La méthode ABC",
+      "diapos": [
+        {
+          "id": "slide-007",
+          "numeroTitre": "10 - La méthode ABC",
+          "referenceMasque": "Logistique titre chapitre",
+          "texteEcran": "3.La méthode ABC",
+          "interactions": "",
+          "elementsVisuels": "Sans objet",
+          "notesProduction": "",
+          "navigation": "• Bouton précédent et Suivant du lecteur\n• Mettre un déclencheur sur le bouton Précédent pour aller à la diapo précédente\n• Navigation linéaire",
+          "statut": "brouillon"
+        },
+        {
+          "id": "slide-008",
+          "numeroTitre": "11- Origine de la méthode ABC",
+          "referenceMasque": "",
+          "texteEcran": "Selon le principe de Pareto, 20 % des références génèrent 80 % des revenus dans l'entrepôt. Cette règle est essentielle pour guider la priorisation des ressources.",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "valide"
+        },
+        {
+          "id": "slide-009",
+          "numeroTitre": "12- Avantages de la méthode ABC",
+          "referenceMasque": "",
+          "texteEcran": "Elle permet : \nD'améliorer les performances des opérateurs logistiques.\nD'optimiser leurs trajets en évitant des déplacements inutiles.\nDe faire correspondre les temps de déplacements les plus courts aux articles les plus demandés.",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "valide"
+        },
+        {
+          "id": "slide-010",
+          "numeroTitre": "13 - Classement par ordre d'importance",
+          "referenceMasque": "",
+          "texteEcran": "La méthode ABC classe les produits selon leur importance pour l'entreprise en 3 grands groupes : A, B, C.",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "a_relire"
+        },
+        {
+          "id": "slide-011",
+          "numeroTitre": "14 - Segmentation et classification des produits",
+          "referenceMasque": "",
+          "texteEcran": "Tableau",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "brouillon"
+        },
+        {
+          "id": "slide-012",
+          "numeroTitre": "15- Critères et méthodologies de classification",
+          "referenceMasque": "",
+          "texteEcran": "",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "valide"
+        },
+        {
+          "id": "slide-013",
+          "numeroTitre": "16 - Les 5 étapes clés",
+          "referenceMasque": "",
+          "texteEcran": "Découvrez le calcul pas à pas en cliquant sur chaque vignette. \n•  Etape 1 : classer les produits par ordre décroissant \n•  Etape 2 : calculer le cumul du critère retenu\n•  Etape 3 : calculer le pourcentage du cumul\n•  Etape 4 : Déterminer le rang et le pourcentage du rang\n•  Etape 5 :Déterminer le classement ABC",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "valide"
+        },
+        {
+          "id": "slide-014",
+          "numeroTitre": "16 - Les 5 étapes clés (calque 1)",
+          "referenceMasque": "",
+          "texteEcran": "•  Etape 1 : classer les produits par ordre décroissant \nEx avec un stock de 20 produits. On trie de la plus grande quantité à la plus petite.",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "a_relire"
+        },
+        {
+          "id": "slide-015",
+          "numeroTitre": "16 - Les 5 étapes clés (calque 2)",
+          "referenceMasque": "",
+          "texteEcran": "•  Etape 2 : calculer le cumul du critère retenu\nle critère étant la quantité en stock : une simple addition",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "brouillon"
+        },
+        {
+          "id": "slide-016",
+          "numeroTitre": "16 - Les 5 étapes clés (calque 3)",
+          "referenceMasque": "",
+          "texteEcran": "•  Etape 3 : calculer le pourcentage du cumul\nChaque quantité cumulée divisée par quantité totale cumulée multiplié par cent",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "valide"
+        },
+        {
+          "id": "slide-017",
+          "numeroTitre": "16 - Les 5 étapes clés (calque 4)",
+          "referenceMasque": "",
+          "texteEcran": "•   Etape 4 : Déterminer le rang et le pourcentage du rang\nLe rang : numéroter de 1 à 20\nLe pourcentage du rang : Réf.14 : 1/20 x 100 - Réf 10 : 2/10 x 100 etc.",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "valide"
+        },
+        {
+          "id": "slide-018",
+          "numeroTitre": "16 - Les 5 étapes clés (calque 5)",
+          "referenceMasque": "",
+          "texteEcran": "•   Etape 5 : Déterminer le classement ABC\nLe rang : numéroter de 1 à 20\nLe pourcentage du rang : Réf.14 : 1/20 x 100 - Réf 10 : 2/10 x 100 etc.",
+          "interactions": "",
+          "elementsVisuels": "",
+          "notesProduction": "",
+          "navigation": "",
+          "statut": "a_relire"
+        }
+      ]
+    }
+  ]
+}
